@@ -1,0 +1,4 @@
+﻿  NTFS_Reader.cpp
+D:\projects\NTFS_Reader\NTFS_Reader.cpp(104,17): warning C4159: #pragma pack(pop,...): извлечен ранее занесенный в стек идентификатор "<InternalPragmaState>"
+D:\projects\NTFS_Reader\NTFS_Reader.cpp(105): warning C4160: #pragma pack(pop,...): не найден ранее занесенный в стек идентификатор "<InternalPragmaState>"
+  NTFS_Reader.vcxproj -> D:\projects\NTFS_Reader\x64\Debug\NTFS_Reader.exe

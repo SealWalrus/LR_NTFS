@@ -1,0 +1,8 @@
+﻿  NTFS_Reader.cpp
+D:\projects\NTFS_Reader\NTFS_Reader.cpp(104,17): warning C4159: #pragma pack(pop,...): извлечен ранее занесенный в стек идентификатор "<InternalPragmaState>"
+D:\projects\NTFS_Reader\NTFS_Reader.cpp(105): warning C4160: #pragma pack(pop,...): не найден ранее занесенный в стек идентификатор "<InternalPragmaState>"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 148 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  NTFS_Reader.vcxproj -> D:\projects\NTFS_Reader\x64\Release\NTFS_Reader.exe
